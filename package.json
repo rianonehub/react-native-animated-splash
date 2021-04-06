@@ -1,23 +1,49 @@
-
 {
-  "name": "react-native-animated-splash",
-  "version": "1.3.6",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "react-native-animated-splash",
+  "_id": "react-native-animated-splash@1.3.6",
+  "_inBundle": false,
+  "_integrity": "sha512-jigSwPSCWGU4YfVYXJu4L38uz7IuKRsd6SRJ8ZRVh4YKYjbAFjlFMIou1fEIA75Q6A3XNgKggbh+K0g7Dlj90w==",
+  "_location": "/react-native-animated-splash",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-animated-splash",
+    "name": "react-native-animated-splash",
+    "escapedName": "react-native-animated-splash",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-animated-splash/-/react-native-animated-splash-1.3.6.tgz",
+  "_shasum": "2897e3e0ef569febe0b7800dd973a8a62add571d",
+  "_spec": "react-native-animated-splash",
+  "_where": "/mnt/G/Project/OHS/WasteManagement",
+  "author": {
+    "name": "alisajames048@gmail.com"
   },
   "bugs": {
-    "email": "alisajames048@gmail.com",
-    "url": "https://github.com/Blitz-Mobile-Apps/react-native-animated-splash/issues"
+    "url": "https://github.com/Blitz-Mobile-Apps/react-native-animated-splash/issues",
+    "email": "alisajames048@gmail.com"
   },
+  "bundleDependencies": false,
   "contributors": [
-    "alisajames048@gmail.com","mick.richard19@gmail.com","alex.evans1230@gmail.com"
+    {
+      "name": "alisajames048@gmail.com"
+    },
+    {
+      "name": "mick.richard19@gmail.com"
+    },
+    {
+      "name": "alex.evans1230@gmail.com"
+    }
   ],
-  "publisher": "Blitz Mobile Apps",
-  "keywords": [
-    "react-native"
-  ],
+  "deprecated": false,
+  "description": "[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Supports Android and iOS](https://img.shields.io/badge/platforms-android%20|%20ios-lightgrey.svg?style=flat-square) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![NPM](https://img.shields.io/npm/dm/react-native-animated-splash)](https://www.npmjs.com/package/react-native-animated-splash) [![Version](https://img.shields.io/npm/v/react-native-animated-splash)](https://www.npmjs.com/package/react-native-animated-splash)",
   "homepage": "https://github.com/Blitz-Mobile-Apps/react-native-animated-splash/",
   "keywords": [
     "react-native",
@@ -37,9 +63,15 @@
     "scale animation",
     "cross platform"
   ],
-  "author": "alisajames048@gmail.com",
   "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-animated-splash",
   "peerDependencies": {
     "react-native": "^0.41.2"
-  }
+  },
+  "publisher": "Blitz Mobile Apps",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.3.6"
 }
